@@ -2,7 +2,7 @@
 
 # NomedoProjeto
 
-**Número da Lista**: X<br>
+**Número da Lista**: 12<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos
 
 ## Alunos
@@ -12,10 +12,14 @@
 | 19/0134810  | Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O repositório contém soluções para algumas questões de juíz online do LeetCode... 
+
+- [Reduzindo Pratos](https://leetcode.com/problems/reducing-dishes/description/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- Reduzindo Pratos
+
+![Reduzindo Pratos](img/reduzindo_pratos.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
