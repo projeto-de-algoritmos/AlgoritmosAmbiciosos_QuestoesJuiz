@@ -12,14 +12,16 @@
 | 19/0134810  | Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-O repositório contém soluções para algumas questões de juíz online do LeetCode... 
+O repositório contém soluções para algumas questões de juíz online do LeetCode, Beecrowd...
 
 - [Reduzindo Pratos](https://leetcode.com/problems/reducing-dishes/description/)
+- [Greedy](https://www.beecrowd.com.br/judge/en/problems/view/1594)
 
 ## Screenshots
 - Reduzindo Pratos
 
 ![Reduzindo Pratos](img/reduzindo_pratos.png)
+![Greedy](img/greedy.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
