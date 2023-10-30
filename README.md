@@ -36,6 +36,13 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 
 ![Arena of Greed](img/arena_of_greed.png)
 
+
+## Apresentações
+
+**Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta [videos](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_QuestoesJuiz/tree/master/videos).**
+
+- [Apresentação dos problemas Reduzindo Pratos e Greedy](https://youtu.be/mlSrp5uaMRQ)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
