@@ -17,6 +17,7 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 - [Reduzindo Pratos](https://leetcode.com/problems/reducing-dishes/description/)
 - [Greedy](https://www.beecrowd.com.br/judge/en/problems/view/1594)
 - [Chat Room](https://codeforces.com/problemset/problem/58/A)
+- [Arena Of Greed](https://codeforces.com/problemset/problem/1425/A)
 
 ## Screenshots
 - Reduzindo Pratos
@@ -30,6 +31,10 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 - Chat Room
 
 ![Chat Room](img/chat_room.png)
+
+- Arena of Greed
+
+![Arena of Greed](img/arena_of_greed.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
