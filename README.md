@@ -12,7 +12,7 @@
 | 19/0134810  | Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
-O repositório contém soluções para algumas questões de juíz online do LeetCode, Beecrowd...
+O repositório contém soluções para algumas questões de juíz online do LeetCode, Beecrowd e CodeForces
 
 - [Reduzindo Pratos](https://leetcode.com/problems/reducing-dishes/description/)
 - [Greedy](https://www.beecrowd.com.br/judge/en/problems/view/1594)
@@ -42,6 +42,7 @@ O repositório contém soluções para algumas questões de juíz online do Leet
 **Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta [videos](https://github.com/projeto-de-algoritmos/AlgoritmosAmbiciosos_QuestoesJuiz/tree/master/videos).**
 
 - [Apresentação dos problemas Reduzindo Pratos e Greedy](https://youtu.be/mlSrp5uaMRQ)
+- [Apresentação dos problemas Chat Room e Arena of Greed](https://youtu.be/8Ed7CeB--bo)
 
 ## Instalação 
 **Linguagem**: C++<br>
